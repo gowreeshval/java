@@ -2,3 +2,5 @@
 2.AWS coarse
 3.Gen Ai
 4.terraform
+5.terraform is userful
+6.mostly usefulr for devloper
